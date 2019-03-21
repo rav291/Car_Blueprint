@@ -1,7 +1,7 @@
 # Inheritance_101
 
 Hi there,
-This project is a demonstration of Inheritance using a real life example. First i've developed a basic car structure with basic minimum
+This project is a demonstration of Inheritance using a real life example. First i've developed a basic car structure with minimum
 requirements for a functional car. This will act as a blueprint for the final vehicle of ours which is to be developed. Having inherited
 the basic car elements from the car.java file, i've added some extra elements which are specific to the final car which is built.
 
