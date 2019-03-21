@@ -1,4 +1,4 @@
-# Inheritance_101
+# Car_Blueprint
 
 Hi there,
 This project is a demonstration of Inheritance using a real life example. First i've developed a basic car structure with minimum
